@@ -3,6 +3,6 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   runtimeConfig: {
-    playFab_titleId: 'Test',
+    playFab_titleId: '1F3CE6'
   }
 })
